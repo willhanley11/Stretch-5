@@ -1,0 +1,1 @@
+![Player Dashboard Screenshot](images/PlayerDash.jpg "Detailed Player Statistics Dashboard")
