@@ -1,10 +1,10 @@
-![Teams Page](images/TeamsDash.jpg)
+![Teams Page](images/TeamsDash.png)
 
-![Player Page](images/PlayerDash.jpg)
+![Player Page](images/PlayerDash.png)
 
-![Player Comparison](images/Comparison.jpg)
+![Player Comparison](images/Comparison.png)
 
-![Team Table](images/TeamTable.jpg)
+![Team Table](images/TeamTable.png)
 
-![Player Stats](images/PlayerStats.jpg)
+![Player Stats](images/PlayerStats.png)
 
